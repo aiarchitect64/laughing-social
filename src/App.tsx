@@ -44,7 +44,7 @@ function AppContent() {
         <main className="flex-1 p-6 max-w-4xl mx-auto">
           {!user ? (
             <div className="bg-gradient-to-br from-slate-900 to-slate-800 border border-slate-700 rounded-2xl p-12 text-center mb-6">
-              <h2 className="text-4xl font-bold text-white mb-4">Welcome to LaughLink</h2>
+              <h2 className="text-4xl font-bold text-white mb-4">Welcome to Humor Hub</h2>
               <p className="text-slate-300 text-lg mb-6">
                 Where Comedy Connects - Join the funniest community on the internet
               </p>
