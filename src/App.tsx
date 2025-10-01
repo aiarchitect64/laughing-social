@@ -50,7 +50,7 @@ function AppContent() {
               </p>
               <button
                 onClick={() => setShowAuthModal(true)}
-                className="px-8 py-3 bg-gradient-to-r from-blue-500 to-cyan-500 hover:from-blue-600 hover:to-cyan-600 text-white font-semibold rounded-full transition-all"
+                className="px-8 py-3 bg-gradient-to-r from-orange-500 to-pink-500 hover:from-orange-600 hover:to-pink-600 text-white font-semibold rounded-full transition-all"
               >
                 Get Started
               </button>
@@ -86,3 +86,6 @@ function App() {
 }
 
 export default App;
+
+
+export default App
